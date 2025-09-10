@@ -7,7 +7,7 @@ python-multipart==0.0.9
 # Config
 pydantic==2.8.2
 pydantic-settings==2.4.0
-pydantic-dotenv==1.0.1
+python-dotenv==1.0.1
 
 # Pipeline
 pandas>=2.2.0
