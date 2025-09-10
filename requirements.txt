@@ -7,7 +7,7 @@ python-multipart==0.0.9
 # Config
 pydantic==2.8.2
 pydantic-settings==2.4.0
-python-dotenv==1.0.1  # opsional (dev lokal)
+pydantic-dotenv==1.0.1
 
 # Pipeline
 pandas>=2.2.0
@@ -16,4 +16,4 @@ pandasai-litellm==0.0.1
 
 # GCP
 google-cloud-storage>=2.17.0
-google-cloud-firestore>=2.16.0
+google-cloud-bigquery>=2.16.0
